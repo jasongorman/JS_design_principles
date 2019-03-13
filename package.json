@@ -1,0 +1,11 @@
+{
+  "name": "function_design",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^24.4.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
