@@ -11,7 +11,7 @@ describe('bank transfer', () => {
     })
 
     it('should credit amount to payee', () => {
-        expect(transferRecord.payer.balance).toBe(50.0);
+        expect(transferRecord.payee.balance).toBe(50.0);
     })
 
     it('should serialize the transfer details to XML', () => {
