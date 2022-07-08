@@ -7,7 +7,7 @@ But the SOLID principles mostly apply, when you put somee thought into it. See h
 
 # Single Responsibility
 
-Refactor the code so that each module only has one reason to change
+Refactor the code so that each module only has one reason to change.
 
 # Open-Closed
 
